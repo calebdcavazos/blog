@@ -627,6 +627,19 @@ video {
   }
 }
 
+.tag {
+  background-color: #c6f6d5;
+  color: #4a5568;
+  border-radius: 9999px;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  font-weight: 600;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .appearance-none {
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -35454,4 +35467,3 @@ video {
     z-index: auto;
   }
 }
-
