@@ -640,6 +640,11 @@ video {
   margin-right: 0.5rem;
 }
 
+#mobileMenu {
+  -webkit-transition: all 1s ease-out;
+  transition: all 1s ease-out;
+}
+
 .appearance-none {
   -webkit-appearance: none;
      -moz-appearance: none;

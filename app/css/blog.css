@@ -5,4 +5,5 @@
     @apply bg-green-200 text-gray-700 rounded-full py-1 px-3 font-semibold mx-2;
 }
 
+
 @tailwind utilities;
